@@ -1,4 +1,4 @@
-#Predictions For NHL Goalies using Machine Learning
+### Predictions For NHL Goalies using Machine Learning
 
 
 Our code is listed in the order of execution as follows:
