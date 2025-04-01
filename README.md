@@ -1,7 +1,11 @@
 # Predictions For NHL Goalies using Machine Learning
 
+#### Raw Data: 
 
-Our code is listed in the order of execution as follows:
+
+#### Code:
+
+Our code is listed in the order of execution as follows (all in the Code folder):
 
 (1) formingdb.py (forms and outputs our database to a csv file)
 
