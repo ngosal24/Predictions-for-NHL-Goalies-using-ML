@@ -41,3 +41,6 @@ Our code is processed in the order of execution as follows (all in the Code fold
       - input files: 'data.csv'
       - files produced: none
 
+### Report:
+
+Our report containing relevant information as well as visualizations produced in Python are available in the Report folder.
