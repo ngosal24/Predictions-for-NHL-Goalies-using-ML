@@ -1,11 +1,17 @@
 # Predictions For NHL Goalies using Machine Learning
 
-#### Raw Data: 
+### Raw Data: 
 
+Our raw data (publicly avaiable data from the web: on www.moneypuck.com) is in the .csv format and contained in the Raw Data folder.
+Our raw data has been deemed by us to be accurate and well-kept. Accuracy is checked with reference to existing statiscal data from the official NHL website. The raw data is season-to-season, and sufficiently well-kept, with no missing data points from our sought "Games Played" range. It required minimal cleaning process from us, and we produce the data for our model in the code further detailed below.
 
-#### Code:
+### Data:
 
-Our code is listed in the order of execution as follows (all in the Code folder):
+The dataset used to produce the subsequent analysis is contained in the Data folder. Note that this data is produced from the formingdb.py code.
+
+### Code:
+
+Our code is processed in the order of execution as follows (all in the Code folder):
 
 (1) formingdb.py (forms and outputs our database to a csv file)
 
