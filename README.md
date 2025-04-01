@@ -1,8 +1,15 @@
 # Predictions For NHL Goalies using Machine Learning
 
+### Our Question:
+
+Can we predict the save percentage of a goalie in the next season, based on his recorded statistics in the previous season? If so, are there any statistics in
+particular that are strongly correlated to the next season’s save percentage?
+
+
+
 ### Raw Data: 
 
-Our raw data (publicly avaiable data from the web: on www.moneypuck.com) is in the .csv format and contained in the Raw Data folder.
+Our raw data (publicly avaiable data from the web: on www.moneypuck.com) is in the .csv format and contained in the Raw Data folder. The folder contains 10 years worth of statistics of NHL goalies, from the 2012-2013 season to the 2022-2023 season.
 Our raw data has been deemed by us to be accurate and well-kept. Accuracy is checked with reference to existing statiscal data from the official NHL website. The raw data is season-to-season, and sufficiently well-kept, with no missing data points from our sought "Games Played" range. It required minimal cleaning process from us, and we produce the data for our model in the code further detailed below.
 
 ### Data:
